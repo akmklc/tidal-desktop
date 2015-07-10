@@ -1,0 +1,9 @@
+c:\users\ali.kilic\documents\visual studio 2012\Projects\TIDAL\TIDAL\bin\Release\TIDAL.exe.config
+c:\users\ali.kilic\documents\visual studio 2012\Projects\TIDAL\TIDAL\bin\Release\TIDAL.exe
+c:\users\ali.kilic\documents\visual studio 2012\Projects\TIDAL\TIDAL\bin\Release\TIDAL.pdb
+c:\users\ali.kilic\documents\visual studio 2012\Projects\TIDAL\TIDAL\obj\Release\TIDAL.Form1.resources
+c:\users\ali.kilic\documents\visual studio 2012\Projects\TIDAL\TIDAL\obj\Release\TIDAL.Properties.Resources.resources
+c:\users\ali.kilic\documents\visual studio 2012\Projects\TIDAL\TIDAL\obj\Release\TIDAL.csproj.GenerateResource.Cache
+c:\users\ali.kilic\documents\visual studio 2012\Projects\TIDAL\TIDAL\obj\Release\TIDAL.exe
+c:\users\ali.kilic\documents\visual studio 2012\Projects\TIDAL\TIDAL\obj\Release\TIDAL.pdb
+C:\Users\ali.kilic\Documents\Visual Studio 2012\Projects\TIDAL\TIDAL\obj\Release\TIDAL.csprojResolveAssemblyReference.cache
